@@ -1,0 +1,67 @@
+1.class: lion
+attributes:
+name
+age 
+color
+weight
+blood group
+height
+breed
+medical history
+life span
+
+for zoo
+only color will matter
+
+for medical purpose:
+blood group
+medical history
+weight
+
+2.car
+attributes:
+color
+speed
+model
+engine power
+performance
+internal working process
+
+for manufacturing
+all the above features are considerd
+
+for drivers
+internal working is ignored
+
+3.person
+attributes:
+name 
+age
+aadhar no.
+height
+weight
+marital status
+medical history
+ocupation
+qualification
+dob
+mobile no.
+address
+income
+blood group
+
+for matrimonial site
+name
+occupation
+qualification
+dob
+mobile no
+
+for hospital management:
+name
+height
+weight
+medical history
+
+
+
